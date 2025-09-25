@@ -38,6 +38,7 @@ A multi-page machine learning web application built with **Python** and **Stream
 
 ## 🛠️ File Structure
 
+```bash
 diabetes_app/
 ├── static/
 │   └── images/
@@ -53,6 +54,7 @@ diabetes_app/
 ├── diabetes_prediction.ipynb
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
